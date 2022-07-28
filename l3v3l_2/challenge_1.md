@@ -11,6 +11,11 @@ Each hallway string will contain three different types of characters: '>', an em
 
 Write a function solution(s) which takes a string representing employees walking along a hallway and returns the number of times the employees will salute. s will contain at least 1 and at most 100 characters, each one of -, >, or <.
 
+# Languages
+
+To provide a Python solution, edit `solution.py`
+To provide a Java solution, edit `Solution.java`
+
 # Test cases
 
 Your code should pass the following test cases.
