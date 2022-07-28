@@ -17,11 +17,11 @@ To test if your solution is correct and without errors, the _verify filename_ co
 
 Finally, to submit your solution there is the _submit filename_ command.
 
-[Level 1](/l3v3l_1/)
+[Level 1: one challenge](/l3v3l_1/)
 
 ![ch4ll_1_bunny](https://user-images.githubusercontent.com/9300586/181393663-6c52f245-5257-44ef-8518-11755d76a701.png)
 
-[Level 2](/l3v3l_2/)
+[Level 2: two challenges](/l3v3l_2/)
 
 ![ch4ll_2a](https://user-images.githubusercontent.com/9300586/181393738-59eb7c82-1f85-4e48-8e27-e0b1614861ee.jpg)
 
